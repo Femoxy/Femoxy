@@ -1,4 +1,4 @@
-- 👋 Hi, am Oluwafemi, am a backend developer. Am a goal oriented individual with creative and innovative ideas in building a better future. 
+- 👋 Hi, am Oluwafemi, am a backend developer, building potentials to solve problems. 
 - 💞️ I’m looking to collaborate on projects and create solutions.
 
 <!---
