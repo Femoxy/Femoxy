@@ -1,4 +1,4 @@
-- 👋 Hi, am Oluwafemi, am a backend developer, building potentials to solve problems. 
+- 👋 Hi, am Oluwafemi, am a backend developer, building potentials to solving problems and making progress in my learning. 
 - 💞️ I’m looking to collaborate on projects and create solutions.
 
 <!---
